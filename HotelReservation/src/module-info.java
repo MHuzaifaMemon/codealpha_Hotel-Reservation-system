@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author UII
+ *
+ */
+module HotelReservation {
+}
